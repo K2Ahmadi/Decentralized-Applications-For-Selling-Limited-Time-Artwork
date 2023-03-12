@@ -1,0 +1,29 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "events": "^3.3.0",
+    "https-browserify": "^1.0.0",
+    "parcel": "^2.7.0",
+    "querystring-es3": "^0.2.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "web3": "^1.7.5",
+    "lite-server":"^2.6.1"
+  }
+
+}
