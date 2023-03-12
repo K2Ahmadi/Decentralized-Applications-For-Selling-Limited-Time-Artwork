@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "web3": "^1.7.5"
+  }
+}
