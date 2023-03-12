@@ -11,7 +11,7 @@ To view a demonstration video showcasing our DApp's functionality and features, 
 
 A description of the important folders in the "DApp Files" folder:
 
-contracts: Contains the code for the Auction smart contract
-migrations: Contains the JavaScript scripts to deploy and run migrations 
-src: Contains the JavaScript and HTML/CSS for the front end, as well as the code that enables interaction with the smart contract
-test: Contains the unit tests for the smart contract
+ - contracts: Contains the code for the Auction smart contract
+ -  migrations: Contains the JavaScript scripts to deploy and run migrations 
+ - src: Contains the JavaScript and HTML/CSS for the front end, as well as the code that enables interaction with the smart contract
+ - test: Contains the unit tests for the smart contract
