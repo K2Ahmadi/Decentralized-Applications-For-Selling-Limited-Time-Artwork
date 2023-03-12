@@ -1,5 +1,5 @@
 # Decentralized Applications For Selling Limited Time Artwork
-Selling artwork using a Decentralized Application (DApp).
+Using a Decentralized Application (DApp) to Sell artwork on the Ethereum blockchain with smart contracts written in Solidity.
 
 This repository houses the Solidity, JavaScript, and HTML code for a Decentralized Application (DApp) that facilitates the sale of limited-time artwork on the Ethereum blockchain. The Truffle Suite served as the development environment for creating and testing the smart contract (written in Solidity). Using Ganache, the contract was subsequently deployed to the Ethereum Testnets. The data displayed on the website's user interface is supported by the smart contract in the backend, while the front end relies on HTML and JavaScript files.
 
